@@ -11,9 +11,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![mervinsweeper.png](mervinsweeper.png)
-
 This is a single page application mock of the famous game Minesweeper.
+
+![mervinsweeper.png](mervinsweeper.png)
 
 ### Built With
 * React
