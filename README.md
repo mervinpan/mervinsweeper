@@ -11,7 +11,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://imgur.com/JMXB5ML)
+[![Mervinsweeper][https://imgur.com/JMXB5ML]](https://imgur.com/JMXB5ML)
 
 This is a single page application mock of the famous game Minesweeper.
 
