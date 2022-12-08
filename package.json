@@ -16,7 +16,7 @@
     "@babel/preset-react": "^7.10.1",
     "babel-loader": "^8.1.0",
     "css-loader": "^3.5.3",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "lodash": "^4.17.19",
     "path": "^0.12.7",
     "react": "^16.13.1",
